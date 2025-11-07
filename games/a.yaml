@@ -417,6 +417,22 @@
   - 'https://airpong.sourceforge.net/sights/old-menu.jpg'
   - 'https://airpong.sourceforge.net/sights/old-game.jpg'
 
+- name: Atari Jaguar Alien vs. Predator
+  originals:
+  - Alien vs Predator
+  type: official
+  repo: >-
+    https://forums.atariage.com/topic/225666-more-impressive-3d-engine-rebellion-vs-id/page/3/#comment-3018559
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-05
+  updated: 2025-11-05
+
 - name: Ajax3d
   images:
   - https://a.fsdn.com/con/app/proj/ajax3d/screenshots/113223.jpg
@@ -627,6 +643,25 @@
   updated: 2025-08-16
   images:
   - 'https://allenmonroesmith.bitbucket.io/Allenroids/images/allenroids.png'
+
+- name: Alpha Waves
+  originals:
+  - Alpha Waves
+  type: official
+  repo: 'https://github.com/LowLevelMahn/alpha_waves_atari_st_source'
+  url: >-
+    https://grenouillebouillie.wordpress.com/2013/01/18/is-it-worth-disputing-the-title-of-first-3d-game-on-a-pc-to-john-carmack/#comment-780
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: '2025-11-06'
+  updated: '2025-11-06'
 
 - name: Ambermoon
   originals:
@@ -1015,6 +1050,24 @@
   added: 2023-07-30
   updated: 2024-12-19
   info: Re-implementation of Age of Empires and the Rise of Rome expansion.
+
+- name: AOTMC89
+  originals:
+  - Attack of the Mutant Camels
+  type: official
+  repo: 'https://github.com/Konix-Multisystem/AOTMC89'
+  url: >-
+    https://web.archive.org/web/20180502211640/https://www.retrocollect.com/News/jeff-minters-unreleased-konix-multisystem-port-of-attack-of-the-mutant-camels-preserved-a-due-for-release.html
+  feed: 'https://github.com/Konix-Multisystem/AOTMC89/releases.atom'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Unreleased Konix Multisystem port.
+  added: 2025-11-06
+  updated: 2025-11-06
 
 - name: Apotris
   originals:
@@ -1432,6 +1485,22 @@
   - https://raw.githubusercontent.com/macdice/ascii-invaders/master/images/screen1.gif
   - https://raw.githubusercontent.com/macdice/ascii-invaders/master/images/screen2.gif
   - https://raw.githubusercontent.com/macdice/ascii-invaders/master/images/screen3.gif
+
+- name: ASIC Lander
+  originals:
+  - Lunar Lander
+  type: clone
+  repo: https://github.com/BXL909/ASIC-Lander
+  url: https://bxl909.github.io/asiclander/
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - JavaScript
+  licenses:
+  - As-is
+  added: 2025-10-06
+  updated: 2025-10-06
 
 - name: asdf
   langs:
